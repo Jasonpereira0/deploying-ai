@@ -78,7 +78,7 @@ If you use your own dataset:
 - The Submission Due Date is indicated in the [readme](../README.md#schedule) file.
 - The branch name for your repo should be: assignment-1
 - What to submit for this assignment:
-    + This Jupyter Notebook (assignment_1.ipynb) should be populated and should be the only change in your pull request.
+    + This Jupyter Notebook (assignment_2.ipynb) should be populated and should be the only change in your pull request.
 - What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/deploying-ai/pull/<pr_id>`
     + Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
